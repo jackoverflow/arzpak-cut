@@ -1,0 +1,33 @@
+http://codepen.io/artisson/pen/adoywX
+input group foundation
+
+
+https://scene.zeplin.io/project/583b5e195e4b3bf92266482b
+
+https://www.dropbox.com/sh/9x3mzpen7gf3nc8/AABJkc_20JQ_LgEEEoBafM13a?dl=0
+
+http://fontawesome.io/icon/angle-down/
+
+background accordion answers: #f7931e
+
+---------------------------------------------------------
+A list of Font Awesome icons and their CSS content values
+---------------------------------------------------------
+http://astronautweb.co/snippet/font-awesome/
+
+----------------------------------------------------------
+Sliding panels
+----------------------------------------------------------
+http://codepen.io/ettrics/pen/ogrgOy
+http://codepen.io/tsalexey544/pen/JKqKgX
+http://codepen.io/Vampireos/pen/Cjfam
+
+----------------------------------------------------------
+Jeffrey sample combobox styling drop down arrow
+----------------------------------------------------------
+https://jsbin.com/yedefalinu/edit?html,css,js,output
+
+
+mobile for arzpak
+----------------------------------------------------------
+https://drive.google.com/drive/u/0/folders/0B1TbhQyQ94R1NlFoMGdWSXFkVEU
